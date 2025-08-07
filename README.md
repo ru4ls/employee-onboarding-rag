@@ -97,7 +97,7 @@ This project requires an API key from Google AI Studio to function.
 
 **A. Clone the Repository**
 ```bash
-git clone <your-repository-url>
+git clone https://github.com/ru4ls/employee-onboarding-rag.git
 cd employee-onboarding-rag
 ```
 
