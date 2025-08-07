@@ -1,0 +1,49 @@
+--- START OF FILE how_to_connect_vpn.txt ---
+
+How to Connect to the DummyWorX VPN
+===================================
+
+The company's Virtual Private Network (VPN) allows you to securely access our internal network and systems (like Odoo and shared drives) when you are working remotely or from outside the office.
+
+1. Prerequisites
+----------------
+- You must have the official "OpenVPN Connect" client installed on your company laptop. This should have been pre-installed by the IT department.
+- You must have your unique VPN configuration file (`your_username.ovpn`), which is provided by IT during your onboarding.
+
+2. Step-by-Step Connection Guide
+--------------------------------
+**Step 1: Import Your Profile (First Time Only)**
+- Open the "OpenVPN Connect" application.
+- Click on the "File" tab or the import icon.
+- Select "Browse" and locate your `.ovpn` configuration file.
+- Click "Import". Your profile will now be saved in the app.
+
+**Step 2: Connect to the VPN**
+- Open the "OpenVPN Connect" application.
+- You will see your imported profile listed (e.g., "your_username@wellaworx.com").
+- Click the toggle switch next to your profile to initiate the connection.
+
+**Step 3: Enter Your Credentials**
+- A dialog box will appear asking for your credentials.
+- **Username:** Enter your standard company username (e.g., johndoe).
+- **Password:** Enter your standard company password.
+- Click "OK" or "Connect".
+
+**Step 4: Verify Connection**
+- The toggle switch will turn green, and the status will show "Connected".
+- You can now access internal company resources.
+
+3. Disconnecting from the VPN
+-----------------------------
+- When you are finished with your work, open the "OpenVPN Connect" application.
+- Click the green toggle switch again to disconnect. It will turn grey.
+- It is good practice to disconnect from the VPN when it is not actively needed.
+
+4. Common Issues & Troubleshooting
+----------------------------------
+- **"Authentication Failed":** Double-check that you are using your correct, current company password.
+- **"Cannot Connect":** Ensure you have a stable internet connection. Try restarting the OpenVPN client.
+- **"Slow Connection":** VPN speed can be affected by your home internet. If the issue persists, contact the IT Helpdesk.
+
+For any issues you cannot resolve, please contact it.support@wellaworx.com.
+--- END OF FILE how_to_connect_vpn.txt ---

@@ -1,0 +1,31 @@
+Role Profile: Campaign Manager
+Department: Marketing
+======================================
+
+1. Primary Objective
+To plan, execute, and optimize end-to-end marketing campaigns to generate qualified leads and achieve specific business objectives.
+
+2. Key Responsibilities
+- Develop the strategy and plan for integrated marketing campaigns, including defining the target audience, channels, budget, and goals.
+- Manage the day-to-day execution of campaigns across various channels (e.g., paid ads, email, events, webinars).
+- Use the **Odoo Marketing Campaigns** and **Project** modules to track timelines, tasks, and budgets.
+- Monitor campaign performance in real-time and make data-driven optimizations to improve results.
+- Analyze and report on campaign effectiveness, including key metrics like Cost Per Lead (CPL) and Return on Marketing Investment (ROMI).
+- Coordinate with the Sales and Product teams to ensure campaign alignment.
+
+3. Key Performance Indicators (KPIs)
+- Number of Marketing Qualified Leads (MQLs) generated per campaign.
+- Lead-to-Customer Conversion Rate from campaigns.
+- Cost Per Lead (CPL) and Return on Marketing Investment (ROMI).
+- On-time and on-budget delivery of campaigns.
+
+4. Core Workflows & Tools
+- Your primary workspace is the **Odoo Marketing Campaigns** module.
+- You will manage paid advertising on platforms like **Meta Business Suite** and **LinkedIn Campaign Manager**.
+- You will use **Odoo Marketing Automation** to set up lead nurturing sequences.
+- You must be proficient in analyzing data from **Google Analytics**.
+
+5. Collaboration
+- Reports to the Marketing Lead.
+- Directs the activities of the Marketing Associate and Digital Content Specialist for campaign-related tasks.
+- Serves as the main marketing liaison with the Sales department.

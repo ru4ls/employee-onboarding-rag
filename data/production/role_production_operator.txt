@@ -1,0 +1,29 @@
+Role Profile: Production Operator
+Department: Production
+======================================
+
+1. Primary Objective
+To operate manufacturing equipment safely and efficiently to produce high-quality products according to the daily production schedule.
+
+2. Key Responsibilities
+- Execute Manufacturing Orders (MOs) as assigned in the Odoo Manufacturing module.
+- Operate machinery and equipment according to Standard Operating Procedures (SOPs).
+- Perform in-process quality checks at designated stages as prompted by the Odoo Quality module.
+- Report any equipment malfunctions by creating a request in the Odoo Maintenance module.
+- Maintain a clean and safe workstation.
+- Adhere strictly to all safety guidelines.
+
+3. Key Performance Indicators (KPIs)
+- Production output per shift vs. target.
+- Scrap and rework rate (%).
+- Adherence to the production schedule.
+- Number of safety incidents (target: 0).
+
+4. Core Workflows & Tools
+- Your primary interface is the **Odoo Manufacturing** module on your workstation terminal.
+- You must follow the procedure outlined in the **"quality_control_sop.txt"** document for all quality checks.
+- You are required to wear all necessary Personal Protective Equipment (PPE).
+
+5. Collaboration
+- Reports to the Production Supervisor.
+- Works closely with Quality Control Inspectors and Maintenance Technicians.

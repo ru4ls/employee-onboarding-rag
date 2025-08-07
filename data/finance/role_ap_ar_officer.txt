@@ -1,0 +1,31 @@
+Role Profile: AP/AR Officer
+Department: Finance
+======================================
+
+1. Primary Objective
+To manage the full lifecycle of accounts payable (AP) and accounts receivable (AR), ensuring timely payments to vendors and prompt collections from customers.
+
+2. Key Responsibilities
+- **Accounts Receivable (AR):**
+  - Generate and send out customer invoices from Odoo.
+  - Monitor customer accounts for overdue payments.
+  - Follow up on outstanding invoices via email and phone.
+  - Collaborate with the Sales department to resolve billing discrepancies.
+- **Accounts Payable (AP):**
+  - Process and record incoming vendor bills in Odoo.
+  - Match vendor bills against purchase orders and receipts.
+  - Schedule and prepare weekly payment runs for approval by the Finance Manager.
+
+3. Key Performance Indicators (KPIs)
+- Days Sales Outstanding (DSO) for AR.
+- Invoice processing time (AP).
+- Collection effectiveness rate (%).
+- Accuracy of payment processing.
+
+4. Core Workflows & Tools
+- You will primarily use the "Customer Invoices" and "Vendor Bills" sections within the **Odoo Accounting module**.
+- You must be proficient in the company's invoicing and collection procedures outlined in "finance_onboarding.txt".
+
+5. Collaboration
+- Reports to the Finance Manager.
+- Works with the Sales team on customer billing and the Procurement team on vendor payments.

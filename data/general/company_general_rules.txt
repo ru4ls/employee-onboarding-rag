@@ -1,0 +1,68 @@
+--- START OF FILE company_general_rules.txt ---
+
+Company General Rules and Code of Conduct
+==========================================
+
+Welcome to DummyWorX. These rules apply to all employees across all departments and are designed to foster a safe, professional, and productive work environment. Every employee is expected to follow these rules from day one.
+
+1. Working Hours
+--------------------------------
+- Standard working hours are from 08:00 to 17:00, Monday to Friday.
+- You must clock in and out using the **Odoo Attendance module**.
+- Report late arrivals or absences to your supervisor via Odoo or internal chat before 08:30.
+- Overtime must be approved in advance.
+- For specifics on flexible and remote work, please refer to the "company_policy_remote_work.txt" document.
+
+2. Code of Conduct
+-------------------
+- Treat everyone with respect regardless of role, department, or background.
+- Maintain professionalism in communication, both in-person and online.
+- Harassment, discrimination, and verbal abuse will not be tolerated.
+- Report any unethical behavior to HR or use the anonymous complaint form in Odoo.
+
+3. Dress Code
+--------------
+- Wear appropriate attire based on your department:
+  - **Office roles**: Business casual.
+  - **Warehouse/Production**: Uniforms and PPE must be worn.
+  - **Visitors/Guests**: Must wear a guest ID badge and be accompanied.
+
+4. Use of Odoo ERP
+-------------------
+- All work activities must be recorded in the **Odoo ERP system**.
+- Do not share your login credentials.
+- Use relevant modules (e.g., HR, Attendance, Leaves, Notes) as instructed.
+- ERP usage is monitored for security and compliance.
+
+5. Leave and Time Off
+----------------------
+- Submit leave requests in the **Odoo Time Off module** at least 3 days in advance.
+- Emergency leaves should be followed up with documentation.
+- Annual leave entitlement is based on your contract and tenure.
+- For the official list of observed holidays, please refer to the "company_holidays_2025.txt" document.
+
+6. Communication Guidelines
+----------------------------
+- Use company email and official chat channels for all work-related communication.
+- Avoid slang, informal jokes, or sarcasm in written communication.
+- Be prompt in responding to queries from supervisors and colleagues.
+
+7. IT Security, Data, and Device Use
+-------------------------------------
+All employees must adhere to strict security protocols to protect company assets. This includes rules regarding passwords, phishing, data handling, and company devices.
+
+**For a complete and detailed guide, you MUST refer to the "company_security_guidelines.txt" document.**
+
+8. Disciplinary Actions
+-------------------------
+- Violations of company rules may result in verbal warnings, written warnings, suspension, or termination depending on severity.
+- HR maintains all disciplinary records in the Odoo HR module.
+
+9. Who to Contact
+-------------------
+For a complete and searchable list of all departmental and support contacts, please refer to the **"company_contact_list.txt"** document.
+
+---
+
+We believe in trust, responsibility, and collaboration. Thank you for committing to uphold our values and standards.
+--- END OF FILE company_general_rules.txt ---

@@ -1,0 +1,30 @@
+admin:
+  department: it
+  name: Administrator
+  password: 5e884898da28047151d0e56f8dc6292773603d0d6aabbdd62a11ef721d1542d8
+  role: admin
+ardi:
+  department: finance
+  name: Ardi Munawar
+  password: 5e884898da28047151d0e56f8dc6292773603d0d6aabbdd62a11ef721d1542d8
+  role: Finance Manager
+rika:
+  department: marketing
+  name: Rika Pratiwi
+  password: 5e884898da28047151d0e56f8dc6292773603d0d6aabbdd62a11ef721d1542d8
+  role: Marketing Lead
+rina:
+  department: warehouse
+  name: Rina Susilawati
+  password: 5e884898da28047151d0e56f8dc6292773603d0d6aabbdd62a11ef721d1542d8
+  role: Warehouse Supervisor
+satria:
+  department: production
+  name: Satria Wibawa
+  password: 5e884898da28047151d0e56f8dc6292773603d0d6aabbdd62a11ef721d1542d8
+  role: Production Supervisor
+yanto:
+  department: finance
+  name: Suryanto Atmaja
+  password: 5e884898da28047151d0e56f8dc6292773603d0d6aabbdd62a11ef721d1542d8
+  role: Junior Accountant

@@ -1,0 +1,28 @@
+Role Profile: Junior Accountant
+Department: Finance
+======================================
+
+1. Primary Objective
+To ensure the accurate and timely recording of all company financial transactions in the Odoo ERP system, supporting the overall financial integrity of the company.
+
+2. Key Responsibilities
+- Record daily financial transactions, including journal entries, into the Odoo Accounting module.
+- Assist with the processing of vendor bills and customer invoices.
+- Help prepare bank reconciliations by matching transactions.
+- Assist the Finance Analyst with data gathering for monthly reports.
+- File and maintain digital and physical financial records.
+- Submit your own work-related expenses by following the "how_to_submit_expense_claim.txt" guide.
+
+3. Key Performance Indicators (KPIs)
+- Data Entry Accuracy Rate (target: >99.5%).
+- Number of transactions processed per day.
+- Timeliness in completing assigned reconciliation tasks.
+
+4. Core Workflows & Tools
+- Your primary tool is the **Odoo Accounting module**.
+- You will focus on "Journal Entries", "Vendor Bills", and "Customer Invoices".
+- You are expected to be familiar with the procedures in the main "finance_onboarding.txt" document.
+
+5. Collaboration
+- Reports to the Finance Manager.
+- Works closely with the AP/AR Officer and Finance Analyst.

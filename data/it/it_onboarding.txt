@@ -1,0 +1,75 @@
+--- START OF FILE it_onboarding.txt ---
+
+IT Department Onboarding Guide
+==============================
+
+Welcome to the IT Department at DummyWorX. This guide outlines our department's purpose, key procedures, and how we use Odoo ERP to provide efficient and secure technical support to the entire company.
+
+1. Department Overview
+----------------------
+The IT Department is the backbone of the company's technology infrastructure. We are responsible for managing all hardware, software, network systems, and providing technical support to ensure all employees can work productively and securely.
+
+2. Key Responsibilities
+-----------------------
+- Providing first and second-level technical support via the Odoo Helpdesk.
+- Managing the lifecycle of all IT assets (laptops, monitors, etc.).
+- Administering user accounts and permissions across all company systems, including Odoo.
+- Maintaining the health and security of the company's network, servers, and cloud services.
+- Onboarding new employees with the necessary hardware and account access.
+- Enforcing the company's IT security policies.
+
+3. Core Workflow in Odoo ERP
+----------------------------
+Odoo is central to our support and administrative tasks.
+
+**a. Ticket Management (Helpdesk Module):**
+- The **Odoo Helpdesk** is your primary workspace. All user requests must come through this system.
+- Tickets are assigned to stages (New, In Progress, Solved, Cancelled).
+- You are responsible for picking up new tickets, communicating with the user via the ticket's chatter, and documenting your solution before closing the ticket.
+- Always aim to meet the SLAs defined for each ticket priority.
+
+**b. Employee Onboarding (Employees Module):**
+- When HR registers a new employee, a task is created for IT.
+- Your responsibilities include preparing their laptop, creating their user accounts, and ensuring they have access to their department's required resources on their first day.
+
+**c. Documentation (Documents Module):**
+- Our internal IT procedures, SOPs, and network diagrams are stored in the Odoo **Documents** app, within the "IT Knowledge Base" folder.
+- You are expected to contribute to and help maintain this documentation.
+
+4. Service Level Agreements (SLAs)
+----------------------------------
+Our performance is measured by our ability to respond to and resolve issues in a timely manner.
+- **P1 - Critical (System-wide outage):** 15-minute response, 4-hour resolution.
+- **P2 - High (Individual unable to work):** 30-minute response, 8-hour resolution.
+- **P3 - Normal (General inquiry, non-critical issue):** 4-hour response, 2-day resolution.
+
+5. Common Issues & Reporting
+----------------------------
+| Issue                          | How to Instruct User to Report                 |
+|--------------------------------|------------------------------------------------|
+| Cannot log in / Forgot Password| Guide them to "how_to_reset_password.txt" first, then escalate to a ticket. |
+| VPN connection issue           | Direct them to "how_to_connect_vpn.txt" first, then escalate to a ticket. |
+| Software request               | Submit a ticket in Odoo Helpdesk with manager approval attached. |
+| Hardware malfunction (laptop, mouse) | Submit a ticket with the device's asset tag number. |
+
+6. Roles in the IT Team
+-----------------------
+- **Junior IT Support:** Handles first-level support tickets, new user setups, and basic troubleshooting.
+- **IT Support Specialist:** Manages more complex technical issues, oversees the helpdesk queue, and assists with system administration.
+- **System Administrator:** (Future Role) Manages servers, network infrastructure, and high-level security.
+
+7. Tools We Use
+---------------
+- **Primary:** Odoo ERP (Helpdesk, Employees, Documents modules).
+- **Remote Support:** AnyDesk / TeamViewer for remote desktop assistance.
+- **Network Monitoring:** Zabbix / Grafana for monitoring system health.
+- **Scripting:** PowerShell (for Windows) and Bash (for Linux) for automation.
+
+8. Contacts
+-----------
+- **IT Manager:** [Name of IT Manager]
+- **General Support:** All requests MUST go through the Odoo Helpdesk.
+- For a full company directory, refer to **"company_contact_list.txt"**.
+
+Welcome to the team! Your work is critical to empowering every employee at DummyWorX to do their best work.
+--- END OF FILE it_onboarding.txt ---

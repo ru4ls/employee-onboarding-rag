@@ -1,0 +1,32 @@
+Role Profile: Maintenance Technician
+Department: Production
+======================================
+
+1. Primary Objective
+To ensure all manufacturing equipment and machinery are operating safely and efficiently by performing preventive maintenance and timely repairs, minimizing production downtime.
+
+2. Key Responsibilities
+- Perform scheduled preventive maintenance on all production machinery according to the schedule in the Odoo Maintenance module.
+- Respond promptly to equipment breakdown requests logged by Production Operators.
+- Diagnose mechanical and electrical faults in machinery.
+- Repair and replace defective parts.
+- Maintain a detailed log of all maintenance and repair activities for each piece of equipment in Odoo.
+- Manage the inventory of spare parts and request new parts as needed.
+- Adhere to all safety protocols, especially during machine repairs.
+
+3. Key Performance Indicators (KPIs)
+- Equipment Downtime (%).
+- Mean Time Between Failures (MTBF).
+- Mean Time to Repair (MTTR).
+- Preventive Maintenance compliance rate (%).
+- Spare parts inventory accuracy.
+
+4. Core Workflows & Tools
+- Your primary workspace is the **Odoo Maintenance** module, where you will manage "Maintenance Requests" and "Preventive Maintenance" schedules.
+- You will use a variety of mechanical and electrical tools.
+- You must follow all safety procedures, including Lockout/Tagout (LOTO) when working on machinery.
+
+5. Collaboration
+- Reports to the Production Supervisor or a Maintenance Lead.
+- Works closely with Production Operators to understand equipment issues and schedule maintenance.
+- Coordinates with the Procurement department to order spare parts.

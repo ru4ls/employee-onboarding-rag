@@ -1,0 +1,42 @@
+--- START OF FILE how_to_submit_expense_claim.txt ---
+
+How to Submit an Expense Claim in Odoo
+======================================
+
+This guide provides step-by-step instructions for submitting a work-related expense claim for reimbursement using the Odoo ERP system.
+
+**Step 1: Log in to Odoo**
+Access the Odoo portal using your employee credentials.
+
+**Step 2: Navigate to the Expenses Module**
+From the main dashboard, find and click on the "Expenses" application.
+
+**Step 3: Create a New Expense Report**
+- In the "My Expenses" view, click the "Create" button.
+- A new form will appear. In the "Description" field, give your expense report a clear name (e.g., "Client Meeting in Jakarta - Oct 2024").
+
+**Step 4: Add Individual Expenses**
+- In the "Expense Lines" section at the bottom, click "Add a line".
+- For each expense (e.g., one taxi ride, one meal), you must fill out the following:
+  - **Date:** The date the expense was incurred.
+  - **Product:** Select the appropriate expense category (e.g., "Transportation", "Meals", "Accommodation").
+  - **Description:** Provide a specific detail (e.g., "Taxi from airport to hotel").
+  - **Unit Price:** Enter the total amount of the expense.
+
+**Step 5: Attach Receipts**
+- For each expense line you add, you MUST attach a clear photo or PDF of the corresponding receipt.
+- Click the paperclip icon next to the expense line or use the "Attach a file" button on the right-hand side.
+- Expense claims without valid receipts will be rejected.
+
+**Step 6: Submit for Approval**
+- Once you have added all expenses and attached all receipts to the report, click the "Submit to Manager" button at the top.
+- The status of your report will change to "Submitted".
+
+**Step 7: Tracking Your Claim**
+- You can track the status of your claim ("Submitted", "Approved", "Paid", "Refused") from the "My Expenses" dashboard.
+- Once approved by your manager and processed by the Finance department, the status will change to "Paid", and the amount will be included in your next payroll cycle.
+
+**Important Notes:**
+- All expenses must be submitted within 30 days of being incurred.
+- For any questions regarding expense policies, please refer to the main company guidelines or contact the Finance department.
+--- END OF FILE how_to_submit_expense_claim.txt ---

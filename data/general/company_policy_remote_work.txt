@@ -1,0 +1,44 @@
+--- START OF FILE company_policy_remote_work.txt ---
+
+DummyWorX Remote Work Policy
+============================
+
+1. Policy Statement
+-------------------
+DummyWorX supports flexible work arrangements, including remote work, for eligible employees. This policy outlines the guidelines and expectations for employees who work remotely, either fully or on a hybrid schedule. Our goal is to maintain productivity, collaboration, and security regardless of work location.
+
+2. Eligibility
+-------------
+- Remote work eligibility is determined by the employee's role, responsibilities, and performance, subject to approval by their direct manager and the HR department.
+- Roles that require a physical presence on-site (e.g., certain production, warehouse, or lab-based roles) may not be eligible for full-time remote work.
+- New employees must typically complete a 90-day probationary period on-site before being considered for a hybrid or remote arrangement.
+
+3. Work Hours and Availability
+-----------------------------
+- Standard working hours for all employees are from 8:00 AM to 5:00 PM in their local timezone, Monday to Friday.
+- Remote employees are expected to be available and responsive via company communication channels (email, chat, video calls) during these core hours.
+- Any changes to this schedule must be pre-approved by the employee's manager.
+
+4. Equipment and Technology
+---------------------------
+- DummyWorX will provide a standard set of equipment for remote work, including a laptop, monitor, and necessary peripherals.
+- Employees are responsible for providing a reliable, secure internet connection. A minimum speed of 25 Mbps download is required.
+- All work must be conducted on company-provided devices and through our secure VPN. Using personal devices for company work is strictly prohibited to ensure data security.
+
+5. Security and Confidentiality
+-------------------------------
+- Employees must ensure their remote workspace is secure and private to protect confidential company information.
+- Sensitive documents should not be left unattended. Computer screens should be locked when away from the desk.
+- Any potential security breaches must be reported to the IT department immediately.
+
+6. Performance and Communication
+--------------------------------
+- Performance for remote employees is measured by the same standards as on-site employees, focusing on results, output, and goal achievement.
+- Regular check-ins with managers and team members are mandatory to ensure alignment and collaboration.
+
+7. Requesting Remote Work
+-------------------------
+To request a remote or hybrid work arrangement, employees must submit a "Flexible Work Arrangement Request Form" to their manager. The request should outline the proposed schedule and a justification for how productivity will be maintained. The final decision rests with department leadership and HR.
+
+This policy is subject to change at the discretion of DummyWorX management.
+--- END OF FILE company_policy_remote_work.txt ---

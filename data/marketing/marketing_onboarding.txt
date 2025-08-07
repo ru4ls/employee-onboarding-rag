@@ -1,0 +1,67 @@
+--- START OF FILE marketing_onboarding.txt ---
+
+Marketing Department Onboarding Guide
+======================================
+
+Welcome to the Marketing Department at DummyWorX. This guide provides an overview of your role, our campaign workflows, and the tools we use to drive growth.
+
+1. Department Overview
+------------------------
+The Marketing Department is responsible for brand development, lead generation, digital advertising, and customer engagement. We aim to generate qualified leads and strengthen the company’s market presence.
+
+2. Key Responsibilities
+-------------------------
+- Plan, execute, and track data-driven marketing campaigns.
+- Manage social media channels (LinkedIn, Instagram, TikTok) and the content calendar.
+- Create compelling content including blog posts, case studies, and videos.
+- Track marketing KPIs and report on campaign ROI.
+- Maintain brand consistency across all platforms as per our brand guidelines.
+
+3. Marketing Workflow & Odoo ERP
+--------------------------------
+**a. Campaign Lifecycle:**
+1.  **Planning:** Use the "Marketing Campaigns" module in Odoo to define objectives, budget, target audience, and key messaging.
+2.  **Task Management:** Break down campaign activities into tasks within the Odoo "Project" module. Assign owners and deadlines.
+3.  **Execution:** Use our content creation and distribution tools (see section 6).
+4.  **Reporting:** Monitor real-time analytics in Odoo and other platforms. Prepare a summary for the weekly review.
+
+**b. Key Odoo Marketing Apps We Use:**
+- **Email Marketing:** For newsletters, promotions, and lead nurturing.
+- **Social Marketing:** To schedule, post, and monitor social media content.
+- **Marketing Automation:** To create automated "drip" email campaigns for new leads.
+- **Events:** For planning and managing webinars and offline events.
+- **Surveys:** To gather customer feedback and market research.
+
+4. Weekly Standups & Reviews
+-----------------------------
+We hold a weekly meeting every Monday at 9:00 AM to review the previous week's campaign performance and plan the upcoming week. Be prepared with your data and ideas.
+
+5. Core Marketing KPIs
+----------------------
+- **Leads:** Marketing Qualified Leads (MQLs) generated per month.
+- **Conversion Rate:** Lead-to-Customer Conversion Rate (%).
+- **CPL:** Cost Per Lead.
+- **ROMI:** Return on Marketing Investment.
+- **Engagement Rate:** On social media and email campaigns.
+
+6. Our Marketing Tech Stack
+---------------------------
+- **Primary:** Odoo ERP for campaign management and automation.
+- **Analytics:** Google Analytics, Google Search Console.
+- **Design:** Canva for quick social graphics, Figma for UI/UX and advanced designs.
+- **Ad Platforms:** Meta Business Suite (Facebook/Instagram), LinkedIn Campaign Manager, TikTok Ads Manager.
+- **Content Support:** ChatGPT for brainstorming, first drafts, and summarizing content.
+
+7. Brand & Content Guidelines
+-----------------------------
+- **Brand Assets:** Always use approved logos, fonts, and color codes. These are available in the "Brand Assets" folder within the Odoo "Documents" app.
+- **Tone of Voice:** Our tone is professional, helpful, and innovative. Avoid overly casual language.
+
+8. Contacts
+-----------
+- **Marketing Lead:** Rika P.
+- **Digital Content Specialist:** Fadhil A.
+- For IT or HR support, please refer to the main **"company_contact_list.txt"**.
+
+Let’s grow our brand and connect with our audience meaningfully. Welcome to the team!
+--- END OF FILE marketing_onboarding.txt ---

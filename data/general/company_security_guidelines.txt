@@ -1,0 +1,36 @@
+--- START OF FILE it_security_guidelines.txt ---
+
+DummyWorX IT Security Best Practices
+=====================================
+
+All employees are responsible for protecting the company's data and systems. Adherence to these guidelines is mandatory.
+
+1. Password Policy
+------------------
+- **Complexity:** Passwords must be at least 12 characters long and include a mix of uppercase letters, lowercase letters, numbers, and symbols.
+- **Uniqueness:** Do not reuse passwords across different systems. Your Odoo password must be unique.
+- **Sharing:** Never share your password with anyone, including IT support staff.
+- **Multi-Factor Authentication (MFA):** MFA must be enabled on all company accounts where it is available, especially for Odoo and email access.
+
+2. Phishing and Email Security
+-----------------------------
+- **Be Skeptical:** Treat all unexpected emails with caution, especially those asking for credentials, personal information, or immediate action.
+- **Check the Sender:** Verify the sender's email address. Look for subtle misspellings.
+- **Do Not Click Links:** Hover over links to see the actual destination URL before clicking. If in doubt, do not click.
+- **Report Suspicious Emails:** Use the "Report Phishing" button in your email client or forward the email to it.security@wellaworx.com.
+
+3. Software and Device Usage
+----------------------------
+- **Approved Software:** Only install software from the approved list provided by the IT department. Installing unauthorized software is prohibited.
+- **Company Devices:** Company laptops and phones are for business use. Incidental personal use is permitted but should be minimal.
+- **Keep Systems Updated:** Always accept and install system and application updates when prompted. These updates contain critical security patches.
+
+4. Data Handling
+----------------
+- **Confidential Data:** Do not transfer confidential company data to personal devices or public cloud services (like personal Google Drive or Dropbox).
+- **Public Wi-Fi:** Avoid accessing sensitive company information while connected to public, unsecured Wi-Fi networks (e.g., at cafes, airports). Use the company VPN if you must.
+
+5. Incident Reporting
+---------------------
+If you suspect your device has been compromised, you have lost a company device, or you have accidentally clicked on a malicious link, report it to the IT Helpdesk immediately. Prompt reporting is crucial to minimizing potential damage.
+--- END OF FILE it_security_guidelines.txt ---

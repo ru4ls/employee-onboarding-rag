@@ -1,0 +1,30 @@
+Role Profile: Inventory Clerk
+Department: Warehouse
+======================================
+
+1. Primary Objective
+To maintain the accuracy and integrity of the company's inventory records within the Odoo ERP system by meticulously tracking all stock movements.
+
+2. Key Responsibilities
+- Perform daily data entry for all inventory movements, including receipts, deliveries, and internal transfers.
+- Conduct regular cycle counts of specific products and locations as scheduled.
+- Investigate and resolve inventory discrepancies found during cycle counts or daily operations.
+- Process inventory adjustments in Odoo for damaged, expired, or scrapped goods, with supervisor approval.
+- Generate inventory reports from Odoo to assist the Warehouse Supervisor with stock level analysis.
+- Ensure that all physical stock locations in the warehouse match the locations recorded in Odoo.
+
+3. Key Performance Indicators (KPIs)
+- Inventory Record Accuracy (IRA) (target: >99%).
+- Time to resolve inventory discrepancies.
+- Accuracy and timeliness of data entry.
+- Number of stockouts caused by inaccurate records.
+
+4. Core Workflows & Tools
+- Your primary workspace is the **Odoo Inventory** module, specifically the "Inventory Adjustments" and reporting sections.
+- You will work closely with handheld barcode scanners to verify physical counts against system data.
+- You must be proficient in using spreadsheets (Excel/Google Sheets) for analyzing and reconciling inventory data.
+
+5. Collaboration
+- Reports to the Warehouse Supervisor.
+- Works closely with Warehouse Operators to verify stock movements and counts.
+- Liaises with the Finance department to provide data for inventory valuation.

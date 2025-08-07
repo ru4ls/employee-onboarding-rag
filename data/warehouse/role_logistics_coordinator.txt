@@ -1,0 +1,31 @@
+Role Profile: Logistics Coordinator
+Department: Warehouse
+======================================
+
+1. Primary Objective
+To manage and coordinate the transportation of goods, overseeing all incoming and outgoing shipments to ensure they are timely, cost-effective, and compliant with all regulations.
+
+2. Key Responsibilities
+- Plan and schedule all inbound and outbound shipments, coordinating with freight carriers and transport companies.
+- Prepare and manage all shipping documentation, including packing lists, bills of lading, and customs forms if applicable.
+- Track shipments in transit to ensure on-time delivery and communicate any delays to relevant stakeholders (e.g., Sales, Customer Service).
+- Optimize shipping routes and methods to reduce transportation costs.
+- Act as the main point of contact for resolving any shipment issues, such as wrong deliveries or goods damaged in transit.
+- Verify and approve freight invoices for payment by the Finance department.
+
+3. Key Performance Indicators (KPIs)
+- On-Time Delivery (OTD) rate (%).
+- Freight cost per unit or per shipment.
+- Accuracy of shipping documentation.
+- Reduction in shipping errors and delays.
+
+4. Core Workflows & Tools
+- You will primarily use the Odoo Inventory module to manage "Delivery Orders" and "Receipts".
+- You may use external carrier portals and software to book and track shipments.
+- Strong communication via email and phone is essential for this role.
+
+5. Collaboration
+- Reports to the Warehouse Supervisor or a Logistics Manager.
+- Coordinates with Warehouse Operators to ensure orders are packed and ready for dispatch.
+- Works closely with the Sales and Customer Service teams to provide shipping updates.
+- Interacts with the Finance department regarding freight billing.

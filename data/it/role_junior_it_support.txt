@@ -1,0 +1,27 @@
+Role Profile: Junior IT Support
+Department: IT
+======================================
+
+1. Primary Objective
+To assist the IT Support Specialist in providing first-level technical support, handling routine maintenance tasks, and learning the company's IT infrastructure.
+
+2. Key Responsibilities
+- Respond to basic helpdesk tickets under the guidance of the IT Support Specialist.
+- Assist with the setup and deployment of new laptops and workstations.
+- Handle password reset requests that cannot be resolved via self-service.
+- Install approved software for employees.
+- Assist in maintaining an inventory of IT assets.
+- Learn and follow all procedures in the IT knowledge base.
+
+3. Key Performance Indicators (KPIs)
+- Time to resolve basic tickets.
+- Accuracy of asset inventory records.
+- Positive feedback from colleagues and the senior IT team.
+
+4. Core Workflows & Tools
+- You will learn to use the **Odoo Helpdesk module**.
+- Your work will be guided by the "how-to" documents and the main "company_security_guidelines.txt".
+
+5. Collaboration
+- Reports to the IT Support Specialist.
+- Aims to support all employees with their basic IT needs.

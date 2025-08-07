@@ -1,0 +1,32 @@
+Role Profile: Production Supervisor
+Department: Production
+======================================
+
+1. Primary Objective
+To lead and manage a team of Production Operators, ensuring that production targets are met safely, on time, and to the required quality standards.
+
+2. Key Responsibilities
+- Supervise the daily activities of the production floor and the production team.
+- Plan and assign daily work schedules and Manufacturing Orders (MOs) to operators using Odoo.
+- Monitor production progress against the schedule and troubleshoot any issues or delays.
+- Ensure the team's adherence to all safety, quality, and operational procedures (SOPs).
+- Train new Production Operators and provide ongoing coaching and performance feedback.
+- Analyze production data and reports from Odoo to identify opportunities for efficiency improvements.
+- Act as the first point of contact for any production-related incidents, including safety issues or quality failures.
+
+3. Key Performance Indicators (KPIs)
+- Achievement of daily/weekly production volume targets.
+- Team efficiency and productivity.
+- Team safety record (number of incidents).
+- Rework and scrap rates for the entire shift/team.
+- Employee attendance and morale.
+
+4. Core Workflows & Tools
+- You will use the reporting and dashboard features of the **Odoo Manufacturing**, **Quality**, and **Maintenance** modules to oversee the entire production flow.
+- You are responsible for approving time-off requests and managing shift schedules in the HR modules.
+- You will lead the morning briefings and evening debriefs.
+
+5. Collaboration
+- Reports to the Production Manager or Head of Operations.
+- Manages all Production Operators, Quality Control Inspectors, and Maintenance Technicians on the shift.
+- Collaborates with the Warehouse and Procurement supervisors to ensure a smooth flow of materials.

@@ -1,0 +1,32 @@
+Role Profile: Digital Content Specialist
+Department: Marketing
+======================================
+
+1. Primary Objective
+To create, publish, and manage engaging and high-quality content across all of WellaWorX's digital channels, supporting brand building and lead generation efforts.
+
+2. Key Responsibilities
+- Write and edit compelling copy for the company blog, social media posts, email newsletters, and website pages.
+- Create visual assets (graphics, simple videos) for digital campaigns using tools like Canva.
+- Manage the content calendar, ensuring a consistent and timely flow of new material.
+- Perform basic SEO research to identify content opportunities and optimize articles for search engines.
+- Monitor and report on content performance, analyzing metrics like page views, engagement rates, and time on page.
+- Ensure all content strictly adheres to the company's brand voice and guidelines.
+
+3. Key Performance Indicators (KPIs)
+- Organic traffic growth from content marketing.
+- Social media engagement rate (likes, comments, shares).
+- Email open and click-through rates.
+- Quality of content produced (clarity, accuracy, brand alignment).
+- Adherence to the content publishing schedule.
+
+4. Core Workflows & Tools
+- You will use the **Odoo Social Marketing** module to schedule and post content.
+- **Odoo Email Marketing** will be used for creating and sending newsletters.
+- **Canva/Figma** for visual design.
+- **Google Analytics** and **Search Console** for performance tracking.
+- **ChatGPT** can be used for brainstorming and generating initial drafts.
+
+5. Collaboration
+- Reports to the Marketing Lead.
+- Works closely with the Marketing Associate to execute the content plan and the Campaign Manager to align content with specific campaigns.

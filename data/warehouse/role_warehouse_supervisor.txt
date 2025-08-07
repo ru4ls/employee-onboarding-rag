@@ -1,0 +1,32 @@
+Role Profile: Warehouse Supervisor
+Department: Warehouse
+======================================
+
+1. Primary Objective
+To lead the warehouse team and oversee all warehouse operations, ensuring the efficient flow of goods, accuracy of inventory, and safety of all personnel.
+
+2. Key Responsibilities
+- Supervise and manage the daily activities of the warehouse team, including operators, clerks, and coordinators.
+- Plan and assign daily tasks for receiving, putaway, picking, packing, and shipping.
+- Monitor team performance against key KPIs and provide coaching and training to improve efficiency.
+- Ensure the team's strict adherence to all safety and handling guidelines.
+- Oversee the inventory counting process (cycle counts and full physical counts) and approve major adjustments.
+- Investigate and resolve operational issues, such as major inventory discrepancies or equipment malfunctions.
+- Generate and analyze performance reports from Odoo to identify areas for improvement in warehouse operations.
+
+3. Key Performance Indicators (KPIs)
+- Overall Inventory Accuracy Rate (%).
+- Team productivity (e.g., orders fulfilled per hour).
+- Order fulfillment accuracy (picking errors %).
+- Team safety record (number of incidents).
+- Employee attendance and performance.
+
+4. Core Workflows & Tools
+- You will use the dashboards and reporting features of the Odoo Inventory module to get a complete overview of all warehouse operations.
+- You are responsible for managing your team's schedules and leave requests in the Odoo HR modules.
+- You will lead daily team briefings to communicate targets and safety reminders.
+
+5. Collaboration
+- Reports to the Head of Operations or a Supply Chain Manager.
+- Manages all members of the warehouse team.
+- Collaborates with the Production, Sales, and Finance supervisors to ensure smooth cross-departmental workflows.

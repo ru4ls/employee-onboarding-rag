@@ -1,0 +1,37 @@
+# docker-compose.yml
+
+version: '3.9'
+
+services:
+  onboarding-rag:
+    # Build the image from the Dockerfile in the current directory
+    build: .
+    container_name: employee-onboarding-rag
+    
+    # Expose port 8501 from the container to your local machine
+    ports:
+      - "8501:8501"
+
+    # Inject environment variables from the .env file
+    env_file:
+      - .env
+
+    # We are explicitly defining what to share with the container.
+    # This ensures the running app can see all necessary files and folders.
+    # Format is: <path-on-your-computer>:<path-inside-the-container>
+    volumes:
+      # Mount the source code directory for live code reloading
+      - ./src:/app/src
+
+      # Mount the data directory so the app can read knowledge documents
+      - ./data:/app/data
+
+      # Mount the assets directory so the app can find the logo
+      - ./assets:/app/assets
+      
+      # Mount the vectorstore directory for data persistence
+      - ./vectorstore:/app/vectorstore
+
+      # Mount individual config files so changes are reflected without a rebuild
+      - ./config.json:/app/config.json
+      - ./users.yaml:/app/users.yaml

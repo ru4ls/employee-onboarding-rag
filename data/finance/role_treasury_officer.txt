@@ -1,0 +1,28 @@
+Role Profile: Treasury Officer
+Department: Finance
+======================================
+
+1. Primary Objective
+To manage the company's liquidity, cash flow, banking relationships, and financial risk, ensuring the company has the necessary funds to meet its obligations.
+
+2. Key Responsibilities
+- Monitor daily cash positions and forecast short-term and long-term cash needs.
+- Manage all company bank accounts and execute payments, transfers, and other banking transactions.
+- Perform daily bank reconciliations in Odoo to ensure all transactions are accounted for.
+- Investigate and resolve any discrepancies or missing transactions with the banks.
+- Manage financial risks, such as foreign exchange exposure.
+- Maintain relationships with banking partners.
+
+3. Key Performance Indicators (KPIs)
+- Accuracy of cash flow forecasts.
+- Timeliness of daily bank reconciliations (target: 100% completed by end of day).
+- Efficiency in payment processing.
+- Optimization of banking fees and interest income/expense.
+
+4. Core Workflows & Tools
+- Your main workspace is the **Bank & Cash** section within the **Odoo Accounting module**.
+- You are responsible for the daily reconciliation process and investigating any issues flagged by the Junior Accountant or AP/AR Officer.
+
+5. Collaboration
+- Reports to the Finance Manager.
+- Works closely with the AP/AR Officer to manage cash inflows and outflows.

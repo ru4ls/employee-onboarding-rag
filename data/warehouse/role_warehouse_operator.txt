@@ -1,0 +1,29 @@
+Role Profile: Warehouse Operator
+Department: Warehouse
+======================================
+
+1. Primary Objective
+To perform the physical tasks of receiving, storing, picking, and packing goods efficiently and accurately, ensuring the integrity of the company's inventory.
+
+2. Key Responsibilities
+- Unload incoming shipments and inspect for damage.
+- Use barcode scanners to receive goods against purchase orders in the Odoo Inventory module.
+- Place goods in their designated storage locations ("putaway").
+- Pick items from shelves accurately based on Odoo-generated picking lists for customer orders.
+- Pack orders securely and prepare them for shipment.
+- Participate in regular cycle counts and physical inventory checks.
+
+3. Key Performance Indicators (KPIs)
+- Picking accuracy rate (%).
+- Order fulfillment time (from picking to packed).
+- Putaway time for incoming goods.
+- Number of safety incidents (target: 0).
+
+4. Core Workflows & Tools
+- Your primary tool is the handheld **Barcode Scanner** connected to the **Odoo Inventory module**.
+- You will work with "Receipts" for incoming goods and "Delivery Orders" for outgoing orders.
+- You must be certified to operate forklifts or hand pallets if required.
+
+5. Collaboration
+- Reports to the Warehouse Supervisor.
+- Interacts with the Logistics Coordinator for shipment details.

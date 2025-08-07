@@ -1,0 +1,25 @@
+--- START OF FILE company_holidays_2025.txt ---
+
+DummyWorX Official Company Holidays - 2025
+==========================================
+
+The following is a list of official public holidays observed by DummyWorX for the year 2025. The office will be closed on these dates.
+
+**List of Public Holidays:**
+
+- **New Year's Day:** Wednesday, January 1
+- **Good Friday:** Friday, April 18
+- **Labour Day:** Thursday, May 1
+- **Ascension Day:** Thursday, May 29
+- **Independence Day:** Sunday, August 17 (Observed on Monday, August 18)
+- **Christmas Day:** Thursday, December 25
+- **Boxing Day:** Friday, December 26
+
+**Company-Specific Time Off:**
+
+- **Year-End Break:** The office will also be closed from Wednesday, December 24, 2025, through Friday, January 2, 2026. Normal operations will resume on Monday, January 5, 2026.
+
+**Notes on Leave:**
+- Employees wishing to take additional leave around these holidays must submit a request through the Odoo Time Off module at least two weeks in advance.
+- These dates are for general guidance and are subject to official government announcements. Any changes will be communicated by the HR department.
+--- END OF FILE company_holidays_2025.txt ---

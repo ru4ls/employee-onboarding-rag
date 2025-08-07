@@ -1,0 +1,32 @@
+Role Profile: Marketing Lead
+Department: Marketing
+======================================
+
+1. Primary Objective
+To lead the Marketing department, developing the overall marketing strategy and ensuring that all marketing activities align with WellaWorX's business goals and drive sustainable growth.
+
+2. Key Responsibilities
+- Develop and own the company's annual marketing strategy, budget, and goals.
+- Lead, mentor, and manage the entire Marketing team.
+- Oversee the planning and execution of all marketing campaigns to ensure they are effective and on-brand.
+- Analyze overall market trends, competitor activities, and customer insights to identify new opportunities.
+- Report on the Marketing department's overall performance and ROI to senior management.
+- Approve all major marketing expenditures and campaign concepts.
+- Act as the ultimate guardian of the WellaWorX brand.
+
+3. Key Performance Indicators (KPIs)
+- Overall lead generation and contribution to the sales pipeline.
+- Customer Acquisition Cost (CAC).
+- Brand awareness and market share growth.
+- Team performance and professional development.
+- Overall Return on Marketing Investment (ROMI) for the department.
+
+4. Core Workflows & Tools
+- You will use Odoo's reporting dashboards to get a high-level view of all marketing activities.
+- You are the final approver for campaign plans and budgets within the **Odoo Marketing Campaigns** module.
+- You will use data from all marketing platforms (Google Analytics, Ad Managers, etc.) to inform strategic decisions.
+
+5. Collaboration
+- Reports to the company's executive leadership.
+- Manages all members of the Marketing team.
+- Works closely with the heads of Sales, Product, and Finance to ensure strategic alignment.

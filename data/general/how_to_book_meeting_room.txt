@@ -1,0 +1,44 @@
+--- START OF FILE how_to_book_meeting_room.txt ---
+
+How to Book a Meeting Room Using Odoo Calendar
+==============================================
+
+This guide shows you how to reserve a physical meeting room for your meetings using the Odoo Calendar application.
+
+1. Purpose
+----------
+To avoid scheduling conflicts and ensure meeting rooms are available when needed, all room bookings must be made through the official calendar system.
+
+2. Procedure
+------------
+**Step 1: Navigate to the Calendar Module**
+From the main Odoo dashboard, click on the "Calendar" application.
+
+**Step 2: Create a New Event**
+- Click on the desired date and time slot in the calendar view to create a new event.
+- A pop-up window will appear. Click "Edit" to see the full event details.
+
+**Step 3: Fill in Meeting Details**
+- **Subject:** Enter a clear title for your meeting (e.g., "Marketing Weekly Sync").
+- **Start/End Time:** Adjust the date and time as needed.
+
+**Step 4: Add Attendees (People)**
+- In the "Attendees" section, start typing the names of the colleagues you wish to invite. Select them from the list.
+- They will receive a calendar invitation via email.
+
+**Step 5: Add the Meeting Room (Resource)**
+- This is the most important step for booking the room.
+- In the same "Attendees" section, type the name of the meeting room you want to book (e.g., "Meeting Room A", "Boardroom", "Focus Booth 1").
+- The meeting rooms are set up as resources that can be invited just like people.
+
+**Step 6: Check for Conflicts and Save**
+- Odoo will automatically show if there are any time conflicts with the people or the room you have invited.
+- If there are no conflicts, click the "Save" button.
+- The meeting room is now officially reserved for your event.
+
+3. Best Practices
+-----------------
+- **Cancel Promptly:** If your meeting is cancelled or rescheduled, please edit or delete the calendar event immediately to free up the room for others.
+- **Be Considerate:** Do not book rooms for longer than necessary.
+- **Keep it Tidy:** Leave the meeting room in a clean and orderly state after your meeting.
+--- END OF_FILE how_to_book_meeting_room.txt ---

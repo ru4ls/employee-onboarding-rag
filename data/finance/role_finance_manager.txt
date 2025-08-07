@@ -1,0 +1,32 @@
+Role Profile: Finance Manager
+Department: Finance
+======================================
+
+1. Primary Objective
+To oversee all financial operations of the company, ensure financial health and stability, and provide strategic financial guidance to senior management.
+
+2. Key Responsibilities
+- Manage and lead the entire Finance department, including accountants, analysts, and officers.
+- Review and approve all monthly and annual financial reports before submission.
+- Oversee the annual budgeting process, ensuring it aligns with company goals.
+- Ensure compliance with all financial regulations, tax laws, and reporting requirements.
+- Approve significant payments, expenditures, and vendor contracts.
+- Act as the primary point of contact for external auditors and banking partners.
+- Analyze financial performance and provide strategic recommendations to the executive team.
+
+3. Key Performance Indicators (KPIs)
+- Company profitability and cash flow health.
+- Budget accuracy and adherence across the company.
+- Timeliness and accuracy of financial closing and reporting.
+- Successful completion of external audits with no major findings.
+- Team performance and development.
+
+4. Core Workflows & Tools
+- You will use the **Odoo Accounting module** for oversight, approvals, and high-level reporting.
+- You are the final approver for many workflows, including payment runs and major journal entries.
+- You will utilize reports prepared by the Finance Analyst for strategic decision-making.
+
+5. Collaboration
+- Reports to the company's executive leadership (e.g., CEO, COO).
+- Manages the entire Finance team.
+- Collaborates with all other department heads on budget and financial matters.

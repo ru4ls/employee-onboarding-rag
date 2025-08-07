@@ -1,0 +1,78 @@
+--- START OF FILE warehouse_onboarding.txt ---
+
+Warehouse Department Onboarding Guide
+======================================
+
+Welcome to the Warehouse Department at DummyWorX. This guide covers our warehouse operations and how we use the Odoo ERP Inventory module to manage activities efficiently.
+
+1. Department Overview
+-----------------------
+The Warehouse Department ensures the proper handling, storage, and movement of all physical goods. We are key to maintaining accurate inventory and supporting timely order fulfillment for both Production and Sales.
+
+2. Key Responsibilities
+------------------------
+- Receive and inspect incoming goods against Purchase Orders.
+- Stock items in their designated storage zones using a barcode system.
+- Manage real-time inventory levels in Odoo.
+- Pick, pack, and ship customer orders accurately.
+- Perform cycle counts and regular full inventory counts.
+- Report damaged or missing items immediately.
+
+3. Core Workflow Using Odoo ERP
+---------------------------------
+Your primary workspace is the Odoo **Inventory** application.
+
+**a. Receiving Products (Receipts):**
+- In Odoo, go to the "Receipts" dashboard to see expected arrivals for the day.
+- When a shipment arrives, scan the PO number.
+- Unload and inspect the goods, confirming quantities against the PO in Odoo.
+- Validate the receipt to move the items into stock. A putaway rule will suggest the optimal storage location.
+
+**b. Delivering Products (Delivery Orders):**
+- Go to the "Delivery Orders" dashboard to see orders ready for shipment.
+- Odoo will generate a picking list with item locations.
+- Pick the items, pack them securely, and validate the delivery order in Odoo to deduct from inventory.
+
+**c. Inventory Adjustments & Cycle Counting:**
+- Use the "Inventory Adjustments" feature to perform scheduled cycle counts.
+- Select a location or specific products, count the physical stock, and enter the quantity into Odoo.
+- Validate the count to update the system inventory. Any discrepancies will be flagged for review.
+
+**d. Internal Transfers:**
+- Use "Internal Transfers" to move goods between warehouse zones or to supply the Production department.
+
+4. Safety & Handling Guidelines
+-------------------------------
+- **Physical Safety:** Always wear required protective gear (PPE) in storage and loading areas. Only operate forklifts and other equipment if you are trained and authorized. Label and segregate hazardous materials according to safety data sheets.
+- **Digital Security:** Protect your Odoo account. For detailed password and data security rules, refer to the main **"company_security_guidelines.txt"**.
+
+5. Core Warehouse KPIs
+------------------
+- **Inventory Accuracy Rate:** Percentage of stock items with matching physical and system counts.
+- **Order Fulfillment Time:** Average time from order creation to shipment.
+- **Receiving to Putaway Time:** Average time to store incoming goods.
+- **Damaged Goods Rate:** Percentage of goods damaged during handling or storage.
+
+6. Common Issues & Reporting
+-----------------------------
+| Issue                     | How to Report                          |
+|---------------------------|----------------------------------------|
+| Missing items in a shipment | Flag in Odoo Receipt and notify Supervisor |
+| Inventory mismatch        | Submit an "Inventory Discrepancy Report" in Odoo |
+| Equipment malfunction     | Log a request with the Facility Maintenance Team |
+| Wrong shipment dispatched | Notify the Logistics Coordinator immediately   |
+
+7. Tools We Use
+---------------
+- Odoo ERP (Inventory module).
+- Handheld Barcode Scanners integrated with Odoo.
+- Forklifts, Hand Pallets, and Packing Stations.
+
+8. Contacts
+-----------
+- **Warehouse Supervisor:** Rina S.
+- **Inventory Control Lead:** Andi W.
+- For a full company directory, refer to the main **"company_contact_list.txt"**.
+
+Welcome aboard! Your work ensures our operations run smoothly and our customers receive their orders perfectly.
+--- END OF FILE warehouse_onboarding.txt ---

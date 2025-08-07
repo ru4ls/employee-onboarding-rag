@@ -1,0 +1,29 @@
+Role Profile: Finance Analyst
+Department: Finance
+======================================
+
+1. Primary Objective
+To analyze financial data, prepare insightful reports, and support the company's budgeting and forecasting processes to aid in strategic decision-making.
+
+2. Key Responsibilities
+- Prepare and analyze monthly, quarterly, and annual financial performance reports.
+- Develop financial models and conduct variance analysis (Budget vs. Actual).
+- Assist the Finance Manager in the annual budget creation process and periodic forecasting.
+- Monitor key financial performance indicators (KPIs) and report on trends.
+- Provide data-driven insights and recommendations to support business strategy.
+- Conduct ad-hoc financial analysis as requested by management.
+
+3. Key Performance Indicators (KPIs)
+- Accuracy of financial forecasts (Forecast vs. Actual %).
+- Timeliness and clarity of financial reports.
+- Quality of insights and recommendations provided.
+- Efficiency in data modeling and analysis.
+
+4. Core Workflows & Tools
+- You will heavily use the **Reporting** features within the **Odoo Accounting module** to extract raw data.
+- **Excel/Google Sheets** are your primary tools for detailed analysis, modeling, and creating management-ready reports.
+- You must have a deep understanding of the company's financial structure and chart of accounts in Odoo.
+
+5. Collaboration
+- Reports to the Finance Manager.
+- Works closely with all members of the Finance team and provides analytical support to other department heads during budget cycles.

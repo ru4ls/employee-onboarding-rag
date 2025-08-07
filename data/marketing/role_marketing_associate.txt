@@ -1,0 +1,27 @@
+Role Profile: Marketing Associate
+Department: Marketing
+======================================
+
+1. Primary Objective
+To support the Marketing team in the execution of campaigns and daily activities, helping to increase brand awareness and generate leads.
+
+2. Key Responsibilities
+- Assist in creating and scheduling content for social media channels using the Odoo Social Marketing module.
+- Help draft copy for email newsletters and promotional materials.
+- Assist the Campaign Manager with logistics for events and webinars.
+- Gather data and metrics for weekly campaign performance reports.
+- Ensure all created materials adhere to the company's brand guidelines.
+
+3. Key Performance Indicators (KPIs)
+- Timeliness of task completion.
+- Engagement rate on social media posts you manage.
+- Quality and accuracy of data gathered for reports.
+
+4. Core Workflows & Tools
+- You will use Odoo's **Email Marketing** and **Social Marketing** apps.
+- Familiarize yourself with our design tools like Canva.
+- All work must follow the rules in the "Brand Guidelines" section of the "marketing_onboarding.txt" guide.
+
+5. Collaboration
+- Reports to the Marketing Lead.
+- Works closely with the Digital Content Specialist and Campaign Manager.

@@ -1,0 +1,73 @@
+--- START OF FILE production_onboarding.txt ---
+
+Production Department Onboarding Guide
+======================================
+
+Welcome to the Production Department at DummyWorX. This guide covers your role and how we manage production using Odoo ERP to ensure efficiency, quality, and traceability.
+
+1. Department Overview
+------------------------
+The Production Department is responsible for planning, manufacturing, and ensuring the quality of products. We collaborate closely with Warehouse, Procurement, and Quality Control teams to maintain smooth operations.
+
+2. Key Responsibilities
+-------------------------
+- Execute Manufacturing Orders (MOs) accurately and on time.
+- Monitor production stages and report any delays or issues immediately.
+- Adhere to all quality control and safety standards.
+- Perform routine maintenance on workstations and equipment.
+- Optimize material usage to minimize scrap and waste.
+
+3. Daily Workflow Using Odoo ERP
+--------------------------------
+Your work is centered in the Odoo **Manufacturing** module.
+
+**a. Review Manufacturing Orders (MOs):**
+At the start of your shift, check the MOs assigned to your work center. Each MO details the product, quantity, Bill of Materials (BoM), and routing steps.
+
+**b. Execute Production Steps:**
+- Click "Start" on an MO when materials are ready.
+- Follow the defined work order steps precisely.
+- Consume components and record progress in real-time using your workstation's terminal.
+- Mark stages as completed to move the MO to the next work center.
+
+**c. Quality Checks:**
+Some stages will trigger a mandatory Quality Check. You must navigate to the **Quality** module, perform the required tests, and record the results as "Pass" or "Fail". For detailed procedures, refer to the **"quality_control_sop.txt"** document.
+
+**d. Maintenance Reports:**
+If equipment malfunctions, create a Maintenance Request immediately in the **Maintenance** module.
+
+**f. End of Shift:**
+Mark all completed MOs, clean your workstation, and submit your shift report via the Odoo Notes app.
+
+4. Core Manufacturing KPIs
+-----------------------
+- **On-Time Production Rate:** Percentage of orders completed by the scheduled date.
+- **Rework & Scrap Rate:** Percentage of products requiring rework or being scrapped.
+- **Equipment Downtime:** Total hours of unscheduled equipment stoppage.
+- **Cycle Time:** The average time to complete one unit.
+
+5. Safety Guidelines
+---------------------
+- **Physical Safety:** Always wear required Personal Protective Equipment (PPE): gloves, helmet, safety shoes. Do not operate unfamiliar machines without certified training. Report unsafe conditions immediately.
+- **Digital Security:** Your Odoo account is your responsibility. For password and data security rules, refer to the main **"company_security_guidelines.txt"**.
+
+6. Collaboration With Other Departments
+----------------------------------------
+- **Warehouse:** For raw material availability and finished good transfers.
+- **Procurement:** For stock replenishment and vendor component issues.
+- **Quality Control:** For inspections, certifications, and handling failed checks.
+
+7. Tools We Use
+----------------
+- Odoo ERP (Manufacturing, Inventory, Maintenance, Quality modules).
+- Barcode scanners for tracking production lots and components.
+- Digital SOP sheets (stored in Odoo Documents).
+
+8. Contacts
+-----------
+- **Production Supervisor:** Satria W.
+- **Maintenance Lead:** Dian N.
+- For a full company directory, refer to **"company_contact_list.txt"**.
+
+Your role is crucial in delivering high-quality products to our customers. Let’s build with precision and pride. Welcome aboard!
+--- END OF FILE production_onboarding.txt ---

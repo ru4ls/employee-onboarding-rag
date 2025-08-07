@@ -1,0 +1,29 @@
+--- START OF FILE company_contact_list.txt ---
+
+DummyWorX Important Company Contacts
+====================================
+
+This document provides a list of key departmental contacts and general support email addresses. Please use these channels for official inquiries.
+
+**Departmental Leadership & Support Contacts**
+
+| Department  | Lead Contact         | Support Email                  |
+|-------------|----------------------|--------------------------------|
+| HR          | HR Department        | hr@dummyworx.com               |
+| IT          | IT Department        | it.support@dummyworx.com       |
+
+
+**General Support Channels**
+
+- **For Odoo ERP Issues:**  
+  Submit a ticket through the Odoo Helpdesk module. For critical issues impacting multiple users, email your department's specific ERP support address erp@dummyworx.com.
+
+- **For General HR Questions:**  
+  For topics like payroll, benefits, or leave policy, please email hr@dummyworx.com.
+
+- **For Facility & Office Management:**  
+  For issues related to the office environment, meeting rooms, or supplies, contact office.admin@dummyworx.com.
+
+- **For Reporting Security Incidents:**  
+  Immediately report any suspected security issues to it.security@dummyworx.com.
+--- END OF FILE company_contact_list.txt ---

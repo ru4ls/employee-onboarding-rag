@@ -1,0 +1,71 @@
+--- START OF FILE finance_onboarding.txt ---
+
+Finance Department Onboarding Guide
+====================================
+
+Welcome to the Finance Department at DummyWorX. This document is designed to help you get up to speed quickly with our internal financial procedures, reporting practices, and how we utilize Odoo ERP to manage company finances.
+
+1. Department Overview
+----------------------
+The Finance Department is responsible for managing budgets, overseeing transactions, ensuring regulatory compliance, and supporting strategic decision-making through accurate financial reporting.
+
+2. Key Responsibilities
+-----------------------
+- Recording all financial transactions in Odoo.
+- Preparing monthly, quarterly, and annual financial reports.
+- Managing accounts payable and receivable.
+- Budget planning and forecasting using our approved templates.
+- Coordinating with external auditors and tax authorities.
+- Ensuring financial compliance with local regulations (e.g., PPh 21, PPN).
+
+3. Core Workflow in Odoo ERP
+----------------------------
+Odoo ERP is our central system. Your daily work will primarily be in the **Accounting** module.
+
+**a. Invoice Management:**
+- **Outgoing (Customer Invoices):** Create from a confirmed Sales Order. Always verify customer details and tax information.
+- **Incoming (Vendor Bills):** Record bills immediately upon receipt. Match them against the corresponding Purchase Order (PO).
+- **Validation:** Invoices and bills must be validated and posted only after receiving approval from the Finance Manager.
+
+**b. Bank & Cash Reconciliation:**
+This is a daily task performed under the "Bank" section. Upload bank statements and use Odoo's reconciliation tool to match entries.
+
+**c. Expense Claims:**
+Your role may involve reviewing employee expense claims. To understand the submission process that employees follow, please refer to the general company guide: **"how_to_submit_expense_claim.txt"**.
+
+**d. Financial Reports:**
+Generate key reports like the Balance Sheet, Profit & Loss, and Cash Flow via "Reporting". These are used for our monthly review meetings.
+
+**e. Tax Reports (Indonesia):**
+VAT (PPN) reports for e-Faktur integration are generated under "Reporting" > "Partner Reports" > "VAT Return". Ensure data is locked before month-end submission.
+
+4. Financial Periods and Deadlines
+----------------------------------
+- **Payroll Processing:** Data must be finalized by the 25th of each month.
+- **Monthly Closing:** Financial reports must be submitted to management by the 5th working day of the following month.
+- **Annual Budget Review:** Begins in November each year.
+- **Tax Filing Deadlines:** Follow the official government calendar, typically around the 20th of each month for monthly taxes.
+
+5. Common Issues & Reporting
+----------------------------
+| Issue                     | How to Report                               |
+|---------------------------|---------------------------------------------|
+| Invoice-PO Mismatch       | Notify supervisor and flag document in Odoo |
+| Missing Bank Transactions | Contact Treasury Officer                    |
+| Incorrect Tax Calculation | File a "Finance Adjustment Request"         |
+| ERP Entry Error           | Submit a correction request to the Finance Lead |
+
+6. Tools We Use
+---------------
+- **Primary:** Odoo ERP (Accounting & Invoicing modules).
+- **Secondary:** Excel/Google Sheets for ad-hoc forecasting and analysis.
+- **Compliance:** Tax Software Integration (Indonesia’s e-Faktur).
+
+7. Contacts
+-----------
+- **Finance Manager:** Ardi M. 
+- **Accounts Payable Lead:** Laila N.
+- For a full company directory, refer to **"company_contact_list.txt"**.
+
+We’re excited to have you on board—together we maintain the financial health of our company!
+--- END OF FILE finance_onboarding.txt ---

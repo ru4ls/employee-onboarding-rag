@@ -1,0 +1,12 @@
+streamlit
+PyYAML
+langchain
+langchain-community
+faiss-cpu
+python-dotenv
+tiktoken
+python-magic
+pypdf
+google-generativeai
+langchain-google-genai
+tzdata
