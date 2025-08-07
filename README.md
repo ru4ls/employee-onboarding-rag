@@ -103,8 +103,9 @@ GOOGLE_API_KEY="YOUR_GOOGLE_API_KEY_HERE"
 ```
 
 **C. Review Example Configurations**
+
 This project includes example configuration files to get you started immediately:
--   `config.json`: Sets the default AI model (`gemini-1.5-flash`). This can be changed later in the admin panel.
+-   `config.json`: Sets the default AI model (`gemini-2.5-flash`). This can be changed later in the admin panel.
 -   `users.yaml`: Contains a pre-configured list of users, including an `admin` and several departmental users.
     > **For demonstration purposes, the password for all example users in this file is `password`**.
 
