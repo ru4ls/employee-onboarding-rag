@@ -8,6 +8,11 @@ ardi:
   name: Ardi Munawar
   password: 5e884898da28047151d0e56f8dc6292773603d0d6aabbdd62a11ef721d1542d8
   role: Finance Manager
+joan:
+  department: marketing
+  name: Joanna Michelle
+  password: 15e2b0d3c33891ebb0f1ef609ec419420c20e320ce94c65fbc8c3312448eb225
+  role: Digital Content Specialist
 rika:
   department: marketing
   name: Rika Pratiwi
@@ -23,8 +28,3 @@ satria:
   name: Satria Wibawa
   password: 5e884898da28047151d0e56f8dc6292773603d0d6aabbdd62a11ef721d1542d8
   role: Production Supervisor
-yanto:
-  department: finance
-  name: Suryanto Atmaja
-  password: 5e884898da28047151d0e56f8dc6292773603d0d6aabbdd62a11ef721d1542d8
-  role: Junior Accountant

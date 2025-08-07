@@ -13,13 +13,13 @@ To perform the physical tasks of receiving, storing, picking, and packing goods 
 - Pack orders securely and prepare them for shipment.
 - Participate in regular cycle counts and physical inventory checks.
 
-3. Key Performance Indicators (KPIs)
+3. KPIs (Key Performance Indicators)
 - Picking accuracy rate (%).
 - Order fulfillment time (from picking to packed).
 - Putaway time for incoming goods.
 - Number of safety incidents (target: 0).
 
-4. Core Workflows & Tools
+4. Tools
 - Your primary tool is the handheld **Barcode Scanner** connected to the **Odoo Inventory module**.
 - You will work with "Receipts" for incoming goods and "Delivery Orders" for outgoing orders.
 - You must be certified to operate forklifts or hand pallets if required.

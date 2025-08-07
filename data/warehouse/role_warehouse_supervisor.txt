@@ -14,14 +14,14 @@ To lead the warehouse team and oversee all warehouse operations, ensuring the ef
 - Investigate and resolve operational issues, such as major inventory discrepancies or equipment malfunctions.
 - Generate and analyze performance reports from Odoo to identify areas for improvement in warehouse operations.
 
-3. Key Performance Indicators (KPIs)
+3. KPIs (Key Performance Indicators)
 - Overall Inventory Accuracy Rate (%).
 - Team productivity (e.g., orders fulfilled per hour).
 - Order fulfillment accuracy (picking errors %).
 - Team safety record (number of incidents).
 - Employee attendance and performance.
 
-4. Core Workflows & Tools
+4. Tools
 - You will use the dashboards and reporting features of the Odoo Inventory module to get a complete overview of all warehouse operations.
 - You are responsible for managing your team's schedules and leave requests in the Odoo HR modules.
 - You will lead daily team briefings to communicate targets and safety reminders.

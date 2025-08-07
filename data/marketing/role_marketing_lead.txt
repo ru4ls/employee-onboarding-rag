@@ -14,14 +14,14 @@ To lead the Marketing department, developing the overall marketing strategy and 
 - Approve all major marketing expenditures and campaign concepts.
 - Act as the ultimate guardian of the WellaWorX brand.
 
-3. Key Performance Indicators (KPIs)
+3. KPIs (Key Performance Indicators)
 - Overall lead generation and contribution to the sales pipeline.
 - Customer Acquisition Cost (CAC).
 - Brand awareness and market share growth.
 - Team performance and professional development.
 - Overall Return on Marketing Investment (ROMI) for the department.
 
-4. Core Workflows & Tools
+4. Tools
 - You will use Odoo's reporting dashboards to get a high-level view of all marketing activities.
 - You are the final approver for campaign plans and budgets within the **Odoo Marketing Campaigns** module.
 - You will use data from all marketing platforms (Google Analytics, Ad Managers, etc.) to inform strategic decisions.

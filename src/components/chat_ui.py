@@ -47,7 +47,7 @@ def show_chat_ui(timezone):
     with col3:
         # This is your new dynamic button, using the user's specific role
         if st.button(f"What are my responsibilities as a {user_role}?"):
-            clicked_prompt = f"Regarding my role as a {user_role}, what are my key responsibilities?"
+            clicked_prompt = f"What are my responsibilities as a {user_role}?"
 
     # --- The rest of your chat logic remains exactly the same ---
     input_prompt = st.chat_input(f"Or type your question...")
@@ -65,8 +65,12 @@ def show_chat_ui(timezone):
     if st.session_state.messages and st.session_state.messages[-1]["role"] == "user":
         last_user_message = st.session_state.messages[-1]["content"]
         
+        # Get the user's role and department from the session state
+        user_department = st.session_state.get("department", "general")
+        user_role = st.session_state.get("role", "employee")
+        
         with st.spinner("Searching documents and crafting a response..."):
-            response_data = get_answer_from_rag(st.session_state.department, last_user_message)
+            response_data = get_answer_from_rag(user_department, last_user_message, user_role)
             
             assistant_message = {
                 "role": "assistant",

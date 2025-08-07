@@ -13,12 +13,12 @@ To assist the IT Support Specialist in providing first-level technical support, 
 - Assist in maintaining an inventory of IT assets.
 - Learn and follow all procedures in the IT knowledge base.
 
-3. Key Performance Indicators (KPIs)
+3. KPIs (Key Performance Indicators)
 - Time to resolve basic tickets.
 - Accuracy of asset inventory records.
 - Positive feedback from colleagues and the senior IT team.
 
-4. Core Workflows & Tools
+4. Tools
 - You will learn to use the **Odoo Helpdesk module**.
 - Your work will be guided by the "how-to" documents and the main "company_security_guidelines.txt".
 

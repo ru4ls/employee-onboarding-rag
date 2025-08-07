@@ -13,13 +13,13 @@ To operate manufacturing equipment safely and efficiently to produce high-qualit
 - Maintain a clean and safe workstation.
 - Adhere strictly to all safety guidelines.
 
-3. Key Performance Indicators (KPIs)
+3. KPIs (Key Performance Indicators)
 - Production output per shift vs. target.
 - Scrap and rework rate (%).
 - Adherence to the production schedule.
 - Number of safety incidents (target: 0).
 
-4. Core Workflows & Tools
+4. Tools
 - Your primary interface is the **Odoo Manufacturing** module on your workstation terminal.
 - You must follow the procedure outlined in the **"quality_control_sop.txt"** document for all quality checks.
 - You are required to wear all necessary Personal Protective Equipment (PPE).

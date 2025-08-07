@@ -11,8 +11,8 @@ This project demonstrates a production-ready approach to building enterprise-gra
 <br/>
 
 <p align="center">
-  <a href="https://www.youtube.com/watch?v=zr2Oxj9o7PE" target="_blank">
-    <img src="https://img.youtube.com/vi/zr2Oxj9o7PE/maxresdefault.jpg" alt="Watch the Video Demo of the AI Onboarding Assistant" width="70%">
+  <a href="https://www.youtube.com/watch?v=vxyFBMsRFiQ" target="_blank">
+    <img src="https://img.youtube.com/vi/vxyFBMsRFiQ/maxresdefault.jpg" alt="Watch the Video Demo of the AI Onboarding Assistant" width="90%">
   </a>
 </p>
 

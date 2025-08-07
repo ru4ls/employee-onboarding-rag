@@ -14,14 +14,14 @@ To ensure that all raw materials, in-process products, and finished goods meet t
 - Calibrate and maintain inspection and testing equipment.
 - Help develop and refine Standard Operating Procedures (SOPs) for quality control.
 
-3. Key Performance Indicators (KPIs)
+3. KPIs (Key Performance Indicators)
 - Defect rate of finished products (%).
 - In-process inspection pass/fail rate.
 - Timeliness of inspection and reporting.
 - Reduction in customer complaints related to product quality.
 - Accuracy of quality documentation.
 
-4. Core Workflows & Tools
+4. Tools
 - Your primary tool is the **Odoo Quality** module, where you will manage "Quality Checks" and "Quality Alerts".
 - You must be an expert in the procedures outlined in the **"quality_control_sop.txt"** document.
 - You will use various physical measurement tools (e.g., calipers, micrometers, gauges) in your daily work.

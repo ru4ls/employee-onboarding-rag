@@ -9,16 +9,7 @@ Welcome to the Finance Department at DummyWorX. This document is designed to hel
 ----------------------
 The Finance Department is responsible for managing budgets, overseeing transactions, ensuring regulatory compliance, and supporting strategic decision-making through accurate financial reporting.
 
-2. Key Responsibilities
------------------------
-- Recording all financial transactions in Odoo.
-- Preparing monthly, quarterly, and annual financial reports.
-- Managing accounts payable and receivable.
-- Budget planning and forecasting using our approved templates.
-- Coordinating with external auditors and tax authorities.
-- Ensuring financial compliance with local regulations (e.g., PPh 21, PPN).
-
-3. Core Workflow in Odoo ERP
+2. Workflow
 ----------------------------
 Odoo ERP is our central system. Your daily work will primarily be in the **Accounting** module.
 
@@ -54,18 +45,6 @@ VAT (PPN) reports for e-Faktur integration are generated under "Reporting" > "Pa
 | Missing Bank Transactions | Contact Treasury Officer                    |
 | Incorrect Tax Calculation | File a "Finance Adjustment Request"         |
 | ERP Entry Error           | Submit a correction request to the Finance Lead |
-
-6. Tools We Use
----------------
-- **Primary:** Odoo ERP (Accounting & Invoicing modules).
-- **Secondary:** Excel/Google Sheets for ad-hoc forecasting and analysis.
-- **Compliance:** Tax Software Integration (Indonesia’s e-Faktur).
-
-7. Contacts
------------
-- **Finance Manager:** Ardi M. 
-- **Accounts Payable Lead:** Laila N.
-- For a full company directory, refer to **"company_contact_list.txt"**.
 
 We’re excited to have you on board—together we maintain the financial health of our company!
 --- END OF FILE finance_onboarding.txt ---

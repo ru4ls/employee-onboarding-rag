@@ -9,16 +9,7 @@ Welcome to the IT Department at DummyWorX. This guide outlines our department's 
 ----------------------
 The IT Department is the backbone of the company's technology infrastructure. We are responsible for managing all hardware, software, network systems, and providing technical support to ensure all employees can work productively and securely.
 
-2. Key Responsibilities
------------------------
-- Providing first and second-level technical support via the Odoo Helpdesk.
-- Managing the lifecycle of all IT assets (laptops, monitors, etc.).
-- Administering user accounts and permissions across all company systems, including Odoo.
-- Maintaining the health and security of the company's network, servers, and cloud services.
-- Onboarding new employees with the necessary hardware and account access.
-- Enforcing the company's IT security policies.
-
-3. Core Workflow in Odoo ERP
+2. Workflow
 ----------------------------
 Odoo is central to our support and administrative tasks.
 
@@ -51,25 +42,6 @@ Our performance is measured by our ability to respond to and resolve issues in a
 | VPN connection issue           | Direct them to "how_to_connect_vpn.txt" first, then escalate to a ticket. |
 | Software request               | Submit a ticket in Odoo Helpdesk with manager approval attached. |
 | Hardware malfunction (laptop, mouse) | Submit a ticket with the device's asset tag number. |
-
-6. Roles in the IT Team
------------------------
-- **Junior IT Support:** Handles first-level support tickets, new user setups, and basic troubleshooting.
-- **IT Support Specialist:** Manages more complex technical issues, oversees the helpdesk queue, and assists with system administration.
-- **System Administrator:** (Future Role) Manages servers, network infrastructure, and high-level security.
-
-7. Tools We Use
----------------
-- **Primary:** Odoo ERP (Helpdesk, Employees, Documents modules).
-- **Remote Support:** AnyDesk / TeamViewer for remote desktop assistance.
-- **Network Monitoring:** Zabbix / Grafana for monitoring system health.
-- **Scripting:** PowerShell (for Windows) and Bash (for Linux) for automation.
-
-8. Contacts
------------
-- **IT Manager:** [Name of IT Manager]
-- **General Support:** All requests MUST go through the Odoo Helpdesk.
-- For a full company directory, refer to **"company_contact_list.txt"**.
 
 Welcome to the team! Your work is critical to empowering every employee at DummyWorX to do their best work.
 --- END OF FILE it_onboarding.txt ---

@@ -14,14 +14,14 @@ To lead and manage a team of Production Operators, ensuring that production targ
 - Analyze production data and reports from Odoo to identify opportunities for efficiency improvements.
 - Act as the first point of contact for any production-related incidents, including safety issues or quality failures.
 
-3. Key Performance Indicators (KPIs)
+3. KPIs (Key Performance Indicators)
 - Achievement of daily/weekly production volume targets.
 - Team efficiency and productivity.
 - Team safety record (number of incidents).
 - Rework and scrap rates for the entire shift/team.
 - Employee attendance and morale.
 
-4. Core Workflows & Tools
+4. Tools
 - You will use the reporting and dashboard features of the **Odoo Manufacturing**, **Quality**, and **Maintenance** modules to oversee the entire production flow.
 - You are responsible for approving time-off requests and managing shift schedules in the HR modules.
 - You will lead the morning briefings and evening debriefs.

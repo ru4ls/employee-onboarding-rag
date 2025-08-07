@@ -12,12 +12,12 @@ To support the Marketing team in the execution of campaigns and daily activities
 - Gather data and metrics for weekly campaign performance reports.
 - Ensure all created materials adhere to the company's brand guidelines.
 
-3. Key Performance Indicators (KPIs)
+3. KPIs (Key Performance Indicators)
 - Timeliness of task completion.
 - Engagement rate on social media posts you manage.
 - Quality and accuracy of data gathered for reports.
 
-4. Core Workflows & Tools
+4. Tools
 - You will use Odoo's **Email Marketing** and **Social Marketing** apps.
 - Familiarize yourself with our design tools like Canva.
 - All work must follow the rules in the "Brand Guidelines" section of the "marketing_onboarding.txt" guide.

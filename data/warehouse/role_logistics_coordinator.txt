@@ -13,13 +13,13 @@ To manage and coordinate the transportation of goods, overseeing all incoming an
 - Act as the main point of contact for resolving any shipment issues, such as wrong deliveries or goods damaged in transit.
 - Verify and approve freight invoices for payment by the Finance department.
 
-3. Key Performance Indicators (KPIs)
+3. KPIs (Key Performance Indicators)
 - On-Time Delivery (OTD) rate (%).
 - Freight cost per unit or per shipment.
 - Accuracy of shipping documentation.
 - Reduction in shipping errors and delays.
 
-4. Core Workflows & Tools
+4. Tools
 - You will primarily use the Odoo Inventory module to manage "Delivery Orders" and "Receipts".
 - You may use external carrier portals and software to book and track shipments.
 - Strong communication via email and phone is essential for this role.

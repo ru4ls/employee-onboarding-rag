@@ -13,13 +13,13 @@ To analyze financial data, prepare insightful reports, and support the company's
 - Provide data-driven insights and recommendations to support business strategy.
 - Conduct ad-hoc financial analysis as requested by management.
 
-3. Key Performance Indicators (KPIs)
+3. KPIs (Key Performance Indicators)
 - Accuracy of financial forecasts (Forecast vs. Actual %).
 - Timeliness and clarity of financial reports.
 - Quality of insights and recommendations provided.
 - Efficiency in data modeling and analysis.
 
-4. Core Workflows & Tools
+4. Tools
 - You will heavily use the **Reporting** features within the **Odoo Accounting module** to extract raw data.
 - **Excel/Google Sheets** are your primary tools for detailed analysis, modeling, and creating management-ready reports.
 - You must have a deep understanding of the company's financial structure and chart of accounts in Odoo.

@@ -11,6 +11,9 @@ from langchain_community.vectorstores import FAISS
 from langchain.text_splitter import RecursiveCharacterTextSplitter
 from langchain.chains import RetrievalQA
 from langchain.docstore.document import Document
+from langchain.chains.combine_documents import create_stuff_documents_chain
+from langchain.chains import create_retrieval_chain
+from langchain_core.prompts import ChatPromptTemplate
 
 import config
 
@@ -123,64 +126,77 @@ def create_or_load_vectorstore(dept):
         logging.error(f"Failed while creating vector store: {e}")
         return None
 
-def get_answer_from_rag(dept, question):
+def get_answer_from_rag(dept, question, user_role):
     """
-    Gets an answer from the RAG with a corrected prompt setup to prevent validation errors.
+    Gets a context-aware answer using the modern, recommended LangChain Expression Language (LCEL) chain.
+    This method correctly handles passing custom variables through the chain.
     """
     vectordb = create_or_load_vectorstore(dept)
     if not vectordb:
-        # Return a dictionary for consistency, even on error
-        return {"result": "Sorry, I couldn't find any documents for this department. Please contact an admin."}
+        return {"result": "Sorry, I couldn't find any documents for this department..."}
 
-    retriever = vectordb.as_retriever(search_type="similarity", search_kwargs={"k": 4})
+    retriever = vectordb.as_retriever(search_kwargs={"k": 5})
     
-    # Get the model name from config
     selected_model = get_current_model_from_config()
-    
     llm = ChatGoogleGenerativeAI(
         model=selected_model,
-        temperature=0.2,
-        # convert_system_message_to_human=True # deprecated
+        temperature=0.2
     )
 
-    # Your prompt template string here.
-    prompt_template = """
-    You are a friendly and helpful onboarding assistant. Your goal is to help new employees get the information they need in a welcoming, natural, and conversational tone.
+    prompt = ChatPromptTemplate.from_template(
+        """
+        You are a friendly and helpful onboarding assistant for the company "DummyWorX".
+        Your goal is to provide accurate, personalized, and conversational answers.
 
-    Use the following pieces of context from the knowledge base to answer the user's question.
+        **IMPORTANT CONTEXT ABOUT THE USER ASKING THE QUESTION:**
+        - User's Role: {user_role}
+        - User's Department: {department}
 
-    CONTEXT:
-    {context}
+        Use the following pieces of retrieved context from the knowledge base to answer the user's question.
 
-    QUESTION:
-    {question}
+        CONTEXT:
+        {context}
 
-    INSTRUCTIONS:
-    - Answer the question based *only* on the context provided.
-    - Do not mention that you are answering based on the context. Just answer the question directly and conversationally.
-    - If the information is not in the context, politely say that you don't have information on that topic and suggest they ask another question or contact their manager.
-    - Frame your answer as if you are speaking directly to a new colleague.
-    - Except at the beginning of the chat, avoid giving excessive greetings.
+        QUESTION:
+        {input}
 
-    FRIENDLY ANSWER:
-    """
+        INSTRUCTIONS:
+        - Answer the question from the perspective of the user's specific role.
+        - If the answer is in the context, provide it directly and confidently.
+        - If not, politely say you don't have information on that topic for their role and suggest they contact their manager.
+        - Always maintain a friendly, helpful, and professional tone.
+
+        FRIENDLY ANSWER:
+        """
+    )
+
+    # 1. Create a "stuff" chain: This chain knows how to combine the context and the question into a final prompt.
+    question_answer_chain = create_stuff_documents_chain(llm, prompt)
     
-    QA_CHAIN_PROMPT = PromptTemplate(
-        template=prompt_template, 
-        input_variables=["context", "question"]
-    )
+    # 2. Create the full retrieval chain: This chain knows how to:
+    #    a) Take a question.
+    #    b) Send it to the retriever to get documents.
+    #    c) Pass the documents AND the original question (and any other variables) to the question_answer_chain.
+    retrieval_chain = create_retrieval_chain(retriever, question_answer_chain)
 
-    qa_chain = RetrievalQA.from_chain_type(
-        llm=llm,
-        retriever=retriever,
-        chain_type_kwargs={"prompt": QA_CHAIN_PROMPT},
-        return_source_documents=True 
-    )
-    
     try:
-        logging.info(f"Submitting question to RAG: '{question}'")
-        response = qa_chain.invoke({"query": question})
-        return response
+        logging.info(f"Submitting question to RAG for user role '{user_role}': '{question}'")
+        
+        # We pass all the necessary variables in a single dictionary.
+        # The chain is smart enough to route them to the correct places.
+        response = retrieval_chain.invoke({
+            "input": question,
+            "user_role": user_role,
+            "department": dept
+        })
+        
+        # The new chain structure returns a dictionary with different keys.
+        # The final answer is in the 'answer' key. The retrieved docs are in 'context'.
+        return {
+            "result": response.get("answer", "Sorry, I couldn't formulate a response."),
+            "source_documents": response.get("context", [])
+        }
+        
     except Exception as e:
         logging.error(f"An error occurred while running the RAG chain: {e}")
         return {"result": "Sorry, it seems there's a technical issue. Please try again later."}

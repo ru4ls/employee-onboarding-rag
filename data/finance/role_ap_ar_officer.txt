@@ -16,13 +16,13 @@ To manage the full lifecycle of accounts payable (AP) and accounts receivable (A
   - Match vendor bills against purchase orders and receipts.
   - Schedule and prepare weekly payment runs for approval by the Finance Manager.
 
-3. Key Performance Indicators (KPIs)
+3. KPIs (Key Performance Indicators)
 - Days Sales Outstanding (DSO) for AR.
 - Invoice processing time (AP).
 - Collection effectiveness rate (%).
 - Accuracy of payment processing.
 
-4. Core Workflows & Tools
+4. Tools
 - You will primarily use the "Customer Invoices" and "Vendor Bills" sections within the **Odoo Accounting module**.
 - You must be proficient in the company's invoicing and collection procedures outlined in "finance_onboarding.txt".
 

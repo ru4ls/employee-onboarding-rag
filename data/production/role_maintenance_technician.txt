@@ -14,14 +14,14 @@ To ensure all manufacturing equipment and machinery are operating safely and eff
 - Manage the inventory of spare parts and request new parts as needed.
 - Adhere to all safety protocols, especially during machine repairs.
 
-3. Key Performance Indicators (KPIs)
+3. KPIs (Key Performance Indicators)
 - Equipment Downtime (%).
 - Mean Time Between Failures (MTBF).
 - Mean Time to Repair (MTTR).
 - Preventive Maintenance compliance rate (%).
 - Spare parts inventory accuracy.
 
-4. Core Workflows & Tools
+4. Tools
 - Your primary workspace is the **Odoo Maintenance** module, where you will manage "Maintenance Requests" and "Preventive Maintenance" schedules.
 - You will use a variety of mechanical and electrical tools.
 - You must follow all safety procedures, including Lockout/Tagout (LOTO) when working on machinery.

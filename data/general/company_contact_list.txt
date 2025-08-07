@@ -12,6 +12,13 @@ This document provides a list of key departmental contacts and general support e
 | HR          | HR Department        | hr@dummyworx.com               |
 | IT          | IT Department        | it.support@dummyworx.com       |
 
+Contacts
+-----------
+- **Marketing Lead:** Rika P.
+- **Finance Manager:** Ardi M. 
+- **IT Manager:** Ruals S.
+- **Production Supervisor:** Satria W.
+- **Warehouse Supervisor:** Rina S.
 
 **General Support Channels**
 

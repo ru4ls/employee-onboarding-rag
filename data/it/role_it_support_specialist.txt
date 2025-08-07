@@ -13,13 +13,13 @@ To provide timely and effective technical support to all WellaWorX employees, en
 - Escalate unresolved issues to the System Administrator or other senior IT staff.
 - Educate users on IT best practices and security policies.
 
-3. Key Performance Indicators (KPIs)
+3. KPIs (Key Performance Indicators)
 - First-contact resolution rate (%).
 - Average ticket resolution time.
 - User satisfaction score (CSAT) from support tickets.
 - Adherence to Service Level Agreements (SLAs).
 
-4. Core Workflows & Tools
+4. Tools
 - You will primarily work within the **Odoo Helpdesk module** to manage support tickets.
 - You must be an expert on the procedures outlined in all "how-to" guides (e.g., "how_to_connect_vpn.txt", "how_to_reset_password.txt").
 - You will enforce the policies outlined in "company_security_guidelines.txt".

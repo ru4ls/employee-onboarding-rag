@@ -13,13 +13,13 @@ To manage the company's liquidity, cash flow, banking relationships, and financi
 - Manage financial risks, such as foreign exchange exposure.
 - Maintain relationships with banking partners.
 
-3. Key Performance Indicators (KPIs)
+3. KPIs (Key Performance Indicators)
 - Accuracy of cash flow forecasts.
 - Timeliness of daily bank reconciliations (target: 100% completed by end of day).
 - Efficiency in payment processing.
 - Optimization of banking fees and interest income/expense.
 
-4. Core Workflows & Tools
+4. Tools
 - Your main workspace is the **Bank & Cash** section within the **Odoo Accounting module**.
 - You are responsible for the daily reconciliation process and investigating any issues flagged by the Junior Accountant or AP/AR Officer.
 
