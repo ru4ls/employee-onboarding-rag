@@ -96,6 +96,7 @@ cd employee-onboarding-rag
 ```
 
 **B. Create the `.env` File**
+
 This is the **only file you must create manually**. In the project's root directory, create a `.env` file and paste your API key.
 ```
 # .env
