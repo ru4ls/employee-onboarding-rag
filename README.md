@@ -18,7 +18,7 @@ This project demonstrates a production-ready approach to building enterprise-gra
 
 ---
 
-## 🎯 Solving Real-World Business Problems
+## Solving Real-World Business Problems
 
 Onboarding new employees and managing internal knowledge is a persistent challenge for many organizations. This AI assistant is designed to directly address these pain points:
 
@@ -36,21 +36,21 @@ Onboarding new employees and managing internal knowledge is a persistent challen
 
 ---
 
-## ✨ Key Features
+## Key Features
 
--   **🔐 Secure, Role-Based Access Control (RBAC):** A complete login system with hashed passwords distinguishes between `admin` and departmental `user` roles.
--   **🧠 Multi-Tenant RAG Architecture:** Knowledge base is partitioned by department, with a shared `general` knowledge base automatically loaded for all users. Provides source citations for every answer.
--   **⚙️ Dynamic Admin Panel:** A self-service portal for administrators:
+-   ** Secure, Role-Based Access Control (RBAC):** A complete login system with hashed passwords distinguishes between `admin` and departmental `user` roles.
+-   ** Multi-Tenant RAG Architecture:** Knowledge base is partitioned by department, with a shared `general` knowledge base automatically loaded for all users. Provides source citations for every answer.
+-   ** Dynamic Admin Panel:** A self-service portal for administrators:
     -   **User Management:** Create, view, and delete user accounts at runtime. Features dynamic, department-aware role selection.
     -   **Document Management:** Full CRUD (Create, Read, Update, Delete) capabilities for all knowledge documents.
     -   **Live Re-indexing:** A one-click "Update Knowledge Base" button clears the old vector store, forcing the AI to re-learn from the latest information.
     -   **Runtime AI Configuration:** Switch the underlying Gemini model (`1.5 Pro` vs. `1.5 Flash`) on the fly to balance performance and cost.
--   **💬 Interactive & User-Friendly UI:** A clean, modern chat interface with personalized welcome messages, timestamped chats, and dynamic, role-aware sample prompts.
--   **🚀 Containerized & Deployable:** Fully containerized with Docker for easy, one-command setup and deployment.
+-   ** Interactive & User-Friendly UI:** A clean, modern chat interface with personalized welcome messages, timestamped chats, and dynamic, role-aware sample prompts.
+-   ** Containerized & Deployable:** Fully containerized with Docker for easy, one-command setup and deployment.
 
 ---
 
-## 🏗️ Design & Architectural Choices
+## Design & Architectural Choices
 
 This project intentionally uses a file-based approach for data and user management to prioritize simplicity, portability, and rapid development that you can extend later on.
 
@@ -64,7 +64,7 @@ This project intentionally uses a file-based approach for data and user manageme
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 -   **Frontend:** Streamlit
 -   **AI Framework:** LangChain
@@ -75,7 +75,7 @@ This project intentionally uses a file-based approach for data and user manageme
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 Follow these steps to set up and run the application locally.
 
@@ -131,6 +131,6 @@ docker-compose up --build
     -   **Password:** `password`
 ---
 
-## 📄 License
+## License
 
 This project is licensed under the MIT License. This means you are free to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the software. see the [LICENSE](LICENSE) file for details.
