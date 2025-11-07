@@ -8,13 +8,9 @@ A secure, multi-departmental RAG (Retrieval-Augmented Generation) chatbot design
 
 This project demonstrates a production-ready approach to building enterprise-grade AI assistants with features like role-based access, dynamic content management, and configurable AI models.
 
-<br/>
 
-<p align="center">
-  <a href="https://www.youtube.com/watch?v=vxyFBMsRFiQ" target="_blank">
-    <img src="https://img.youtube.com/vi/vxyFBMsRFiQ/maxresdefault.jpg" alt="Watch the Video Demo of the AI Onboarding Assistant" width="90%">
-  </a>
-</p>
+https://github.com/user-attachments/assets/69e4f02e-287c-4e63-9c6d-b82f9f38c514
+
 
 ---
 
